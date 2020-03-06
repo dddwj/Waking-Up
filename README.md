@@ -3,10 +3,11 @@
 > 大多数人都高估了他们一天能做的事情，但低估了他们一年能做的事情
 
 ## 补充：字节跳动研发岗位内推！！！有效期至 2020-6-30 
-我们部门现在大量招人，海量HC，入职几率高，内推免笔试，可远程面试  
+我们部门现在大量招人，HC 100+，入职几率高，可**远程面试、入职**。这边是部门直推，不用走冗长的流程，HR**极速审核**，然后推给部门预约面试。之前投过字节不影响，可以捞起来再进行面试。  
 【工作地点】北京/上海；  
-【岗位】后端/前端/C++客户端/Android/iOS/测试；  
-社招/实习/校招均可。简历请发送至：zhangzekuan@bytedance.com；邮件标题：社招/实习/校招+岗位+姓名。我可以帮忙查进度以及修改简历~
+【岗位】后端/前端/C++客户端/Android/iOS/算法/测试；**社招/实习/校招**均可，实习开放可转正实习/日常实习/暑期实习，社招开放初级/中级/高级各种级别  
+【简历投递 - 社招/实习】社招/实习简历请发送至：zhangzekuan@bytedance.com；邮件标题：社招/实习+岗位+姓名。**所有邮件一天之内回复**，我可以帮忙查进度以及修改简历，有任何岗位、简历进度、面试相关的问题都可以问我~  
+【简历投递 - 校招】校招通过内推码: YZGYZWU 在[校招官网](https://job.toutiao.com/campus/)自助投递，内推将获得简历优先筛选机会～后端请戳[:raising_hand::raising_hand:](https://job.toutiao.com/s/tBe2Vr)
 
 <div align="center">
 <img src="_v_images/20191229112508482_31766.png"></img>
@@ -16,7 +17,7 @@
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;计算机网络&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;操作系统&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据库&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;设计模式&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;面经&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |
+| &nbsp;&nbsp;&nbsp;&nbsp;计算机网络&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;操作系统&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据库&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;设计模式&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;面经&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |
 | :----------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------: | :--------: |
 |          [:cloud:](#1-计算机网络)           |               [:computer:](#2-操作系统)               |                   [:floppy_disk:](#3-数据库)                    |                 [:art:](#4-设计模式)                  |                            [:wrench:](#5-工具)                            |                      [:snake:](#6-python)                       | [:memo:](https://www.nowcoder.com/discuss/359048) |
 </div>
@@ -32,10 +33,6 @@
 当你浏览每个版块的目录时，你可能会觉得并没有涉及到多少问题，但其实，**每个问题下的一连串追问**才是这些笔记的精华所在。如果你觉得你已经对目录中的问题了然于胸，你可以点进这些问题，多看看它们的 follow-up questions.
 
 这个repo没有包含数据结构与算法部分，你可以查看我的另一个repo：[Solid data structure and algorithms](https://github.com/wolverinn/Iridescent)，在这个repo中我系统地练习了各种数据结构和算法，并提供了Python代码
-
-### 我拿到offer了吗？
-
-你可以看到，这份笔记是19年11月份创建的，那之前我面试了两次字节跳动，都没有通过；之后用了大概一个月的时间，我开始使用这份笔记复习计算机基础；在12月底的时候，我拿到了字节跳动后端开发的offer.
 
 ### Contribute
 
@@ -90,7 +87,7 @@ Contributers:
 
 ------
  
-> 这个笔记本的名字来源于电影《Lone Survivor》中的配乐《Waking Up》，让我联想到海豹突击队的坚毅、全力以赴、为了训练而付出汗水；在电影中，这段配乐出现的场景，是两名队员在基地外面的大草原上晨跑。
+> 这个笔记本的名字来源于电影《Lone Survivor》中的配乐《Waking Up》；在电影中，这段配乐出现的场景，是两名队员在基地外面的大草原上晨跑。
 
 > 电影中我很喜欢的一句话：  
 > Anything in life worth doing is worth overdoing. Moderation is for cowards.
